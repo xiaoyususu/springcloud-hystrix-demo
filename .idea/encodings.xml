@@ -4,7 +4,10 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-future" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-future1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-hystrix1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider2" charset="UTF-8" />
   </component>

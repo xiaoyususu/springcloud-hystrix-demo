@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.springcloud</groupId>
-    <artifactId>springcloud-hystrix</artifactId>
+    <artifactId>springcloud-future</artifactId>
 
     <dependencies>
         <dependency>

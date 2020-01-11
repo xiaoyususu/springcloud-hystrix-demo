@@ -1,5 +1,4 @@
-package com.springcloud.hystrix;
-
+package com.springcloud.future;
 
 import com.netflix.loadbalancer.IRule;
 import com.netflix.loadbalancer.RandomRule;
@@ -12,21 +11,18 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @ClassName HystrixApplication
+ * @ClassName FutureApplication
  * @Description TODO
  * @Author boy
- * @Date 2020/1/6 4:31 PM
+ * @Date 2020/1/11 6:43 PM
  */
-
-
-
 @SpringBootApplication
 @EnableDiscoveryClient
 @EnableCircuitBreaker//允许断路器
-public class HystrixApplication {
+public class FutureApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HystrixApplication.class, args);
+        SpringApplication.run(FutureApplication.class, args);
     }
 
     @Bean

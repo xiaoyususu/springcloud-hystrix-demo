@@ -14,6 +14,9 @@
         <module>springcloud-provider1</module>
         <module>springcloud-provider2</module>
         <module>springcloud-hystrix</module>
+        <module>springcloud-hystrix1</module>
+        <module>springcloud-future</module>
+        <module>springcloud-future1</module>
     </modules>
 
     <parent>

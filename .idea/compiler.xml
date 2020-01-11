@@ -8,7 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud-eureka1" />
         <module name="springcloud-eureka2" />
+        <module name="springcloud-future" />
+        <module name="springcloud-future1" />
         <module name="springcloud-hystrix" />
+        <module name="springcloud-hystrix1" />
         <module name="springcloud-provider1" />
         <module name="springcloud-provider2" />
       </profile>
@@ -16,8 +19,11 @@
     <bytecodeTargetLevel>
       <module name="springcloud-eureka1" target="1.6" />
       <module name="springcloud-eureka2" target="1.6" />
+      <module name="springcloud-future" target="1.6" />
+      <module name="springcloud-future1" target="1.6" />
       <module name="springcloud-hystrix" target="1.6" />
       <module name="springcloud-hystrix-demo" target="1.6" />
+      <module name="springcloud-hystrix1" target="1.6" />
       <module name="springcloud-provider1" target="1.8" />
       <module name="springcloud-provider2" target="1.8" />
     </bytecodeTargetLevel>
